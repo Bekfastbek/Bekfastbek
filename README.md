@@ -4,6 +4,11 @@
 
 ### Featured Projects
 
+#### [AnyArr](https://github.com/Bekfastbek/anyarr)
+**Dynamic Arrays in C11 which can store multiple datatypes**
+* The library is quick and powerful due to Tagged Unions and Small String Optimization (SSO)
+* Great Type checking functions and using _Generic macro to infer the datatype allowing great DX
+* It's a single file so it's awesome as a drop-in solution
 #### [BareBot](https://github.com/Bekfastbek/BareBot)
 **A custom Discord API implementation written in LibC and OpenSSL**
 * Implemented manual socket handling and **Pthreads** for separation of listener and logic to prevent heartbeat skip
@@ -32,6 +37,7 @@
 ---
 
 ### About Me
-I am someone who enjoys learning about how modern computers work and why we use abstractions by trying to make everything by myself but I also enjoy maintaining infrastructure and helping others out with their problems.
+I am someone who enjoys learning about how modern computers work and I like making things from scratch since it gives me important insight on how each thing works.
+Buttttt I am also someone who uses Windows and JetBrains because I can't be bothered to switch to Linux so I just boot up a development server in the cloud if I want to use linux (WSL sucks btw it randomly bugs out with its networking)
 
-I can do basically anything besides frontend, feel free to reach out if you need help or have any questions I am always happy to help!
+I can do basically anything besides frontend (because I am bad at designing), feel free to reach out if you need help or have any questions I am always happy to help!
