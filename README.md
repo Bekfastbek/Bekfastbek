@@ -26,7 +26,7 @@
 
 | Category           | Skills                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | C/C++, Python, JavaScript & TypeScript and Golang                                                                              |
+| **Languages**      | C/C++, Python, JavaScript & TypeScript, Golang, Java 21+                                                                       |
 | **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD                                                                                  ||                    |                                                                                                                                |
 | **Networking**     | VPNs (WireGuard, OpenVPN), HTTPS/WSS Client, TLS (OpenSSL)                                                                     |
 | **Libraries**      | Playwright, FastAPI, DiscordAPI (discord.py & discord.js), Pillow & CV2                                                        |
