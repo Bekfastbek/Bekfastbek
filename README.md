@@ -1,4 +1,4 @@
-**Backend, Infrastructure & Systems Developer** and a hobbyist who enjoys low level abstractions and making scalable applications
+**Infrastructure & Systems Developer** and a hobbyist who enjoys low level abstractions and making scalable applications
 
 ---
 
@@ -6,7 +6,7 @@
 
 #### [AnyArr](https://github.com/Bekfastbek/anyarr)
 **Dynamic Arrays in C11 which can store multiple datatypes**
-* The library is quick and powerful due to Tagged Unions and Small String Optimization (SSO)
+* The library is quick and powerful due to Virtual Arenas making alloc/dealloc a pointer bump and AVX512 where it's needed, beating the C++ stdlib 
 * Great Type checking functions and using _Generic macro to infer the datatype allowing great DX
 * It's a single file so it's awesome as a drop-in solution
 #### [BareBot](https://github.com/Bekfastbek/BareBot)
@@ -16,7 +16,7 @@
 * Future plans to eventually learn cryptography and replace OpenSSL TLS with my own TLS encryption
 #### [Car Scraper](https://github.com/Bekfastbek/Car-Scraper)
 **Asynchronous playwright scraper made in Python**
-* Used playwright to extract data from AutoEvolution.com since BS4 cannot work on javascript heavy webpages
+* Used playwright to scrape data from AutoEvolution.com since BS4 cannot work on javascript heavy webpages
 * Scrapes about 1700 car models of every brand with every generation of their models with images
 * Features a batching system optimized for multicore CPU architectures
 
@@ -27,7 +27,7 @@
 | Category           | Skills                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**      | C/C++, Python, JavaScript & TypeScript (Node.js, bun)                                                                          |
-| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm                                                                                            ||                    |                                                                                                                                |
+| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD                                                                                  ||                    |                                                                                                                                |
 | **Networking**     | VPNs (WireGuard, OpenVPN), HTTPS/WSS Client, TLS (OpenSSL)                                                                     |
 | **Libraries**      | Playwright, FastAPI, DiscordAPI (discord.py & discord.js), Pillow & CV2                                                        |
 | **Cloud**          | AWS (EC2, Fargate, S3, Lambda, Bedrock), GCP (Vertex AI, Virtual Machines), Azure (Virtual Machines), Digital Ocean (Droplets) |
