@@ -27,7 +27,7 @@
 | Category           | Skills                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**      | C/C++, Python, JavaScript & TypeScript, Golang, Java 21+                                                                       |
-| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD                                                                                  ||                    |                                                                                                                                |
+| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD, LLVM                                                                            ||                    |                                                                                                                                |
 | **Networking**     | VPNs (WireGuard, OpenVPN), HTTPS/WSS Client, TLS (OpenSSL)                                                                     |
 | **Libraries**      | Playwright, FastAPI, DiscordAPI (discord.py & discord.js), Pillow & CV2                                                        |
 | **Cloud**          | AWS (EC2, Fargate, S3, Lambda, Bedrock), GCP (Vertex AI, Virtual Machines), Azure (Virtual Machines), Digital Ocean (Droplets) |
@@ -38,6 +38,5 @@
 
 ### About Me
 I am someone who enjoys learning about how modern computers work and I like making things from scratch since it gives me important insight on how each thing works.
-Buttttt I am also someone who uses Windows and JetBrains because I can't be bothered to switch to Linux so I just boot up a development server in the cloud if I want to use linux (WSL sucks btw it randomly bugs out with its networking)
 
 I can do basically anything besides frontend (because I am bad at designing), feel free to reach out if you need help or have any questions I am always happy to help!
