@@ -4,7 +4,7 @@
 
 ### Featured Projects
 
-#### [Sweep](https://github.com/Bekfastbek/Sweep] (Work In Progress)
+#### [Sweep](https://github.com/Bekfastbek/Sweep) (Work In Progress)
 **Compiled Systems Language with zero cost memory safety without a borrow checker**
 * Introduced a new concept called scope{} which acts as a lexical lifetime boundary where shared variables get promoted to the scope and owned variables gets RAII destruction
 * First class SIMD and concurrency support using simd{} and spawn{}/merge{}
