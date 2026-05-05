@@ -10,7 +10,7 @@
 * First class SIMD and concurrency support using simd{} and spawn{}/merge{}
 * Native vector and block functions without using macros
 * Direct access to compiler using compiler{} which allows Lexer, AST, Sementics and IR while maintaining safety
-* Raw access to the LLVM IR and access to Assembly 
+* Raw access to Clang to write interop C code, LLVM IR and access to Assembly 
 
 #### [AnyArr](https://github.com/Bekfastbek/anyarr)
 **Dynamic Arrays in C11 which can store multiple datatypes**
