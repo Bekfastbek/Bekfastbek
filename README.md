@@ -1,4 +1,4 @@
-**Infrastructure & Systems Developer** and a hobbyist who enjoys low level abstractions and making scalable applications
+**Infrastructure & Systems Developer** and a hobbyist who enjoys writing a lot of high performance code
 
 ---
 
