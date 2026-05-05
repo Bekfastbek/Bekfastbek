@@ -26,7 +26,7 @@
 **Asynchronous playwright scraper made in Python**
 * Used playwright to scrape data from AutoEvolution.com since BS4 cannot work on javascript heavy webpages
 * Scrapes about 1700 car models of every brand with every generation of their models with images
-* Features a batching system optimized for multicore CPU architectures
+* Features a batching system which spawns multiple chromium processes which bypasses python's GIL therefore achieving true parallelism in python
 
 ---
 
