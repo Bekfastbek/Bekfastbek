@@ -1,4 +1,4 @@
-**Infrastructure & Systems Developer** and a hobbyist who enjoys writing a lot of high performance code
+**Infrastructure & Systems Developer** and a hobbyist who enjoys writing high performance code
 
 ---
 
@@ -34,17 +34,16 @@
 
 | Category           | Skills                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | C/C++, Python, JavaScript & TypeScript, Golang, Java 21+                                                                       |
-| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD, LLVM                                                                            ||                    |                                                                                                                                |
-| **Networking**     | VPNs (WireGuard, OpenVPN), HTTPS/WSS Client, TLS (OpenSSL)                                                                     |
-| **Libraries**      | Playwright, FastAPI, DiscordAPI (discord.py & discord.js), Pillow & CV2                                                        |
+| **Languages**      | C, C++, Python, JavaScript & TypeScript, Golang, Java 21+                                                                      |
+| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD, LLVM C ABI                                                                      |                                                                        |                    |                                                                                                                                |
+| **Networking**     | VPNs (WireGuard, OpenVPN), HTTPS/WSS Client, OpenSSL                                                                           |
+| **Libraries**      | Playwright, FastAPI, DiscordAPI, Pillow & CV2                                                                                  |
 | **Cloud**          | AWS (EC2, Fargate, S3, Lambda, Bedrock), GCP (Vertex AI, Virtual Machines), Azure (Virtual Machines), Digital Ocean (Droplets) |
 | **Infrastructure** | Docker, Github Actions, Terraform, Prometheus, Grafana                                                                         |
-| **Databases**      | PostgreSQL, MongoDB \| Amazon RDS and DynamoDB                                                                                                        |
+| **Databases**      | PostgreSQL, MongoDB \| Amazon RDS and DynamoDB                                                                                 |
 
 ---
 
 ### About Me
-I am someone who enjoys learning about how modern computers work and I like making things from scratch since it gives me important insight on how each thing works.
-
-I can do basically anything besides frontend (because I am bad at designing), feel free to reach out if you need help or have any questions I am always happy to help!
+I am someone who enjoys learning about how modern computers work and I like making things from scratch since it gives me important insight on how each thing works and I love C and it's simplicity.
+Feel free to reach out if you need help or have any questions I am always happy to help!
