@@ -34,8 +34,8 @@
 
 | Category           | Skills                                                                                                                         |
 |:-------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | C, C++, Python, JavaScript & TypeScript, Golang, Java 21+                                                                      |
-| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD, LLVM C ABI                                                                      |                                                                        |                    |                                                                                                                                |
+| **Languages**      | C, C++, Rust, Python, JavaScript & TypeScript, Golang, Java 21+                                                                |
+| **Low-Level**      | Pthreads, Win32 API, Inline x86 asm, x86 SIMD, LLVM C ABI                                                                      |                                                                                                                                                                                                                     |                    |                                                                                                                                |
 | **Networking**     | VPNs (WireGuard, OpenVPN), HTTPS/WSS Client, OpenSSL                                                                           |
 | **Libraries**      | Playwright, FastAPI, DiscordAPI, Pillow & CV2                                                                                  |
 | **Cloud**          | AWS (EC2, Fargate, S3, Lambda, Bedrock), GCP (Vertex AI, Virtual Machines), Azure (Virtual Machines), Digital Ocean (Droplets) |
